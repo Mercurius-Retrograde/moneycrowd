@@ -48,7 +48,7 @@
         </javaClientGenerator>
 
         <!-- 配置表信息 -->
-        <table schema="${schema_name}" tableName="t_admin"
+        <table tableName="t_admin"
                domainObjectName="Admin" enableCountByExample="false"
                enableDeleteByExample="false" enableSelectByExample="false"
                enableUpdateByExample="false">

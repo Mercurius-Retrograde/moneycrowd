@@ -8,10 +8,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="crowd05-util" />
-        <module name="crowd04-entity" />
-        <module name="crowd02-webui" />
-        <module name="crowd03-component" />
         <module name="crowd06-reverse" />
+        <module name="crowd03-component" />
+        <module name="crowd02-webui" />
+        <module name="crowd04-entity" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8" />
